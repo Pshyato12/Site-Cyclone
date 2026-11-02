@@ -6,7 +6,12 @@ Projeto desenvolvido para a disciplina de 'Front-End para Web' no 1° semestre d
 * HTML | CSS
 
 ## 📸 Demonstração Visual
-![lINK para acessar o site](file:///C:/Users/dedep/OneDrive/Desktop/bootstrap-5.3.8-dist/index.html)
+
+Aqui está o site em funcionamento demonstrando o layout e a aplicação das ferramentas:
+
+![Página Inicial do Site](img/print-home.png)
+
+![Segunda Seção do Site](img/print-detalhes.png)
 
 ## 🛡️ Licença
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
