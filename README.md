@@ -9,9 +9,9 @@ Projeto desenvolvido para a disciplina de 'Front-End para Web' no 1° semestre d
 
 Aqui está o site em funcionamento demonstrando o layout e a aplicação das ferramentas:
 
-![Página Inicial do Site](img/print-home.png)
+![Imagem da 'hero' do Site](img/print-home.png)
 
-![Segunda Seção do Site](img/print-detalhes.png)
+![Parte com galeria de fotos e mapa do Site](img/print-galeria-e-mapa.png)
 
 ## 🛡️ Licença
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
